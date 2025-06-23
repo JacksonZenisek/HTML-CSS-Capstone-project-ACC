@@ -434,3 +434,9 @@ img.projects_heading_image{
         margin-top:80px;
     }
 }
+
+@media (max-width:1250px){
+    #projectspage_maincontent_container_alt{
+        margin-top:100px;
+    }
+}
