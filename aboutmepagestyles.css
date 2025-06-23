@@ -226,6 +226,7 @@ thead.certs_table_head_section{
 th.table_headers{
     border:3px solid black; 
     width:200px;
+    font-size:30px;
 }
 
 tr.table_rows{
