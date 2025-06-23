@@ -238,6 +238,7 @@ tr.table_rows{
 
 td.table_cells{
     border:3px solid black;
+    font-size:30px;
 }
 
 a.itf_link{
@@ -455,7 +456,7 @@ a.sec_link:hover{
         #aboutmepage_maincontent_container_alt{
             height:3000px;
             width:auto;
-            margin-top:200px;
+            margin-top:100px;
         }
     }
 
